@@ -20,6 +20,6 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Live Preview 🔗⭕:
         - Very Easy:
              - Description 📝: Card With Transparent Image.
-             - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very%20Easy/Card%20With%20Transparent%20Image/card.htm ]
+             - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Card-with-transparent-image/card.html ]
 
 <!-- Add more challenges as needed -->
