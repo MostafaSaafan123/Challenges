@@ -19,45 +19,46 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Difficulty 🔒: Very Easy | Easy.
    - Live Preview 🔗⭕:
      
-        - Very Easy:
-   
-             - Card with transparent image
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Card-with-transparent-image/index.html ]
+        <details>
+           <summary>Very Easy</summary>
 
-               - Classic Sidebar
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Classic-sidebar/index.html ]
-                
-               - Creative Titles
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Creative-titles/index.html ]
-                
-               - Features Products
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/features-products/index.html ]
+       - Card with transparent image
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Card-with-transparent-image/index.html ]
 
-               - Features Comparison Boxes
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Features-comparison-boxes/index.html ]
+       - Classic Sidebar
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Classic-sidebar/index.html ]
+                
+       - Creative Titles
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Creative-titles/index.html ]
+                
+       - Features Products
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/features-products/index.html ]
 
-               - Font Changer
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Font-changer/index.html ]
+       - Features Comparison Boxes
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Features-comparison-boxes/index.html ]
 
-               - Gaming Profile Sections
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Gaming-profile-sections/index.html ]
+       - Font Changer
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Font-changer/index.html ]
+
+       - Gaming Profile Sections
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Gaming-profile-sections/index.html ]
                 
-               - Hover to Show Tooltip
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Hover-to-show-tooltip/index.html ]
+       - Hover to Show Tooltip
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Hover-to-show-tooltip/index.html ]
                 
-               - Scroll to Top Pure CSS
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Scroll-to-top-pure-css/index.html ]
+       - Scroll to Top Pure CSS
+          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Scroll-to-top-pure-css/index.html ]
                 
-               - Show & Hide Paragraph
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Show-hide-paragraph/index.html ]
+       - Show & Hide Paragraph
+         - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Show-hide-paragraph/index.html ]
                 
-               - Split MegaMan Frame
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Split-magaman-frame/index.html ]
+       - Split MegaMan Frame
+         - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Split-magaman-frame/index.html ]
                 
-               - Team Skills and Stats
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Team-skills-and-stats/index.html ]
+       - Team Skills and Stats
+         - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Team-skills-and-stats/index.html ]
                 
-               - Two Columns Form
-                  - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Two-columns-form/index.html ]
+       - Two Columns Form
+         - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Two-columns-form/index.html ] </details>
 
 <!-- Add more challenges as needed -->
