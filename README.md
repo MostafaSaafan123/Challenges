@@ -15,7 +15,7 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/QR-code/index.html ]
 
 2. [Challenge 3: Elzero Web School](Elzero/README.md)
-   - Description 📝: Elzero Web School tasks on HTML & CSS & js.
+   - Description 📝: Elzero Web School Tasks on HTML & CSS & JS.
    - Difficulty 🔒: Very Easy | Easy.
    - Live Preview 🔗⭕:
      
