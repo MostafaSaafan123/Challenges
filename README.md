@@ -61,4 +61,13 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
        - Two Columns Form
          - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very-easy/Two-columns-form/index.html ] </details>
 
+           <details>
+              <summary>Easy</summary>
+              
+             - Course Offer Box
+               - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Easy/Course-offer-box/index.html ]
+      
+             - Interests Boxes Select
+               - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Easy/Interests-boxes-select/index.html ]
+           </details>
 <!-- Add more challenges as needed -->
