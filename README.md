@@ -9,7 +9,7 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Difficulty 🔒: Easy.
    - Live Preview 🔗⭕: [ https://mostafasaafan123.github.io/Challenges/blog-preview-card/index.html ]
 
-2. [Challenge 2: Animated Navigation Menu](QR-code/README.md)
+2. [Challenge 2: QR Code Card](QR-code/README.md)
    - Description 📝: QR code for a website Using HTML & CSS.
    - Difficulty 🔒: Easy.
    - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/QR-code/index.html ]
@@ -18,5 +18,8 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Description 📝: Elzero Web School tasks on HTML & CSS & js.
    - Difficulty 🔒: Very Easy | Easy.
    - Live Preview 🔗⭕:
+        - Very Easy:
+             - Description 📝: Card With Transparent Image.
+             - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/Elzero/Very%20Easy/Card%20With%20Transparent%20Image/card.htm ]
 
 <!-- Add more challenges as needed -->
