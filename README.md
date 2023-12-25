@@ -4,7 +4,7 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
 
 ## Challenges List
 
-1. [Challenge 1: Blog Preview Card](Plog%20Preview%20Card/README.md)
+1. [Challenge 1: Blog Preview Card](blog-preview-card/README.md)
    - Description: Blog Preview Card Using HTML & CSS and some interactive events on its element.
    - Difficulty: Easy.
 
