@@ -14,7 +14,12 @@ Hey there! 👋 I'm <span style="color: red;">Mostafa Saafan</span>, a frontend 
    - Difficulty 🔒: Easy.
    - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/QR-code/index.html ]
 
-2. [Challenge 3: Elzero Web School](Elzero/README.md)
+3. [Challenge 3: FAQ Accordion](FAQ-accordion/README.md)
+   - Description 📝: FAQ Acordion Using HTML & CSS & JS.
+   - Difficulty 🔒: Newbie.
+   - Live Preview 🔗⭕:  [ https://mostafasaafan123.github.io/Challenges/FAQ-accordion/index.html ]
+
+4. [Challenge 4: Elzero Web School](Elzero/README.md)
    - Description 📝: Elzero Web School Tasks on HTML & CSS & JS.
    - Difficulty 🔒: Very Easy | Easy.
    - Live Preview 🔗⭕:
